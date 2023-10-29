@@ -15,4 +15,4 @@ st.set_page_config(
 st.header('NI HE')
 
 #side bar
-st.sidebar.image("nihe.png",caption="Developed and Maintaned by: samir: +255675839840")
+st.sidebar.image("nihe_photo.jpg",caption="Developed and Maintaned by: nihe: nihe78@gmail.com")
